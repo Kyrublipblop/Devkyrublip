@@ -3,13 +3,13 @@
   <h3>Desarrollador Web | Chatbots | Ecommerce Automation | 17 años</h3>
   
   <p>
-    <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+    <a href="https://www.linkedin.com/in/daniel-garcía-navarro-9421b72bb" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/tuuser" target="_blank">
+    <a href="https://instagram.com/daniy_zgz" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:tuemail@gmail.com">
+    <a href="mailto:danielatr795@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://t.me/mitiendakyru_bot" target="_blank">
