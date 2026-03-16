@@ -12,8 +12,10 @@
     <a href="mailto:tuemail@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    <a href="https://t.me/mitiendakyru_bot" target="_blank">
+      <img src="https://img.shields.io/badge/🤖_Demo_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Demo Bot"/>
+    </a>
   </p>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Automatizo+negocios+con+chatbots;Creo+tiendas+online+rápidas;y+baratas;Python+%7C+JavaScript+%7C+Node.js;¡Hablemos+de+tu+proyecto!" alt="Typing SVG" />
 </div>
 
@@ -34,23 +36,23 @@
 </p>
 
 ### 🔥 Proyectos destacados
+
 | Proyecto | Descripción | Tech | Demo / Repo |
 |----------|-------------|------|-------------|
-| **Chatbot Ventas Telegram** | Bot que recomienda productos, cierra ventas y cobra vía link | Python + Telebot | [Ver repo](https://github.com/tuusuario/chatbot-ventas-telegram) → [Demo](https://t.me/tu_bot) |
+| **🤖 Chatbot Ventas Telegram** | Bot que recomienda productos, cierra ventas y redirige a WhatsApp — **funciona 24/7** | Python + Telebot | [Ver repo](https://github.com/Kyrublipblop/bot-tel) → [**🚀 Probar Demo**](https://t.me/mitiendakyru_bot) |
 | **Landing Ecommerce Rápida** | Plantilla responsive con carrito básico + integración WhatsApp | HTML/CSS/JS + Tailwind | [Demo en Netlify](https://tu-landing.netlify.app) → [Repo](https://github.com/tuusuario/landing-ecom) |
 | **Bot de Precios Competencia** | Scrapea precios de competidores y avisa por Telegram | Python + BeautifulSoup | [Repo](https://github.com/tuusuario/precios-competencia-bot) |
 | **Mini Tienda con Admin** | Tienda simple con panel para subir productos | Node.js + Express + Mongo | [Demo](https://tu-tienda.vercel.app) |
 
-→ [Ver todos mis repositorios →](https://github.com/tuusuario?tab=repositories)
+[→ Ver todos mis repositorios →](https://github.com/Kyrublipblop?tab=repositories)
 
 ### 📊 Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme= radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyrublipblop&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyrublipblop&theme=radical&hide_border=true" width="48%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrublipblop&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
