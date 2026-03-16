@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy [Tu Nombre] 👋</h1>
+  <h1>¡Hola! Soy Kyru 👋</h1>
   <h3>Desarrollador Web | Chatbots | Ecommerce Automation | 17 años</h3>
   
   <p>
