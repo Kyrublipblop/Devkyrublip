@@ -37,12 +37,12 @@
 
 ### 🔥 Proyectos destacados
 
-| Proyecto | Descripción | Tech | Demo / Repo |
-|----------|-------------|------|-------------|
-| **🤖 Chatbot Ventas Telegram** | Bot que recomienda productos, cierra ventas y redirige a WhatsApp — **funciona 24/7** | Python + Telebot | [Ver repo](https://github.com/Kyrublipblop/bot-tel) → [**🚀 Probar Demo**](https://t.me/mitiendakyru_bot) |
-| **🛍 Landing Ecommerce Rápida** | Plantilla responsive con carrito básico + integración WhatsApp | HTML/CSS/JS + Tailwind | [**🌐 Ver Demo**](https://urbanzgz.netlify.app) |
-| **Bot de Precios Competencia** | Scrapea precios de competidores y avisa por Telegram | Python + BeautifulSoup | Próximamente |
-| **Mini Tienda con Admin** | Tienda simple con panel para subir productos | Node.js + Express + Mongo | Próximamente |
+| Proyecto | Descripción | Tech | Demo |
+|----------|-------------|------|------|
+| **🤖 Chatbot Ventas Telegram** | Bot que recomienda productos, cierra ventas y redirige a WhatsApp — **24/7** | Python + Telebot | [**🚀 Probar Demo**](https://t.me/mitiendakyru_bot) |
+| **🛍 Landing Ecommerce** | Tienda responsive con carrito + integración WhatsApp | HTML/CSS/JS | [**🌐 Ver Demo**](https://urbanzgz.netlify.app) |
+| **📊 Bot de Trading** | Monitoriza criptos y acciones, alertas automáticas cada 10min | Python + CoinGecko API | [**📈 Probar Demo**](https://t.me/precioskyru_bot) |
+| **🔍 Bot Precios Competencia** | Vigila precios de cualquier web y avisa cuando cambian | Python + BeautifulSoup | [**🔍 Probar Demo**](https://t.me/precioskyru_bot) |
 
 [→ Ver todos mis repositorios →](https://github.com/Kyrublipblop?tab=repositories)
 
